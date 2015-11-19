@@ -1,0 +1,38 @@
+.page-title {
+    text-align:center;
+    font-size:2rem;
+    margin:2rem 0rem 4rem 0rem;
+}
+
+.product-list {
+    list-style-type: none;
+}
+
+.product {
+    float:left;
+    width:20rem;
+    border:1px solid blue;
+    padding:1rem 1rem 0rem 1rem;
+}
+
+.product-price-sale {
+    color:red;
+}
+
+.product-price-normal-strikeout {
+    text-decoration:line-through;
+}
+
+.product-sale-description {
+    display:block;
+}
+
+.product-compare {
+    border:1px solid black;
+    padding:0.3rem 1rem 0.3rem 1rem;
+    text-decoration:none;
+}
+
+.product-compare:hover {
+    background-color:lightgray;
+}
